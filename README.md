@@ -1,4 +1,4 @@
-Heimblick - Vision App
+<H2> Heimblick - Vision App </H2>
 
 Deutsch | English | Installation & Setup
 
@@ -21,8 +21,11 @@ Status
 
 Heimblick ist aktuell ein Prototyp, welcher weiterentwickelt werden soll, um später als Blindenstock 2.0 arbeiten zu können.
 
+
+<H2>
 <a name="english"></a>
 English: Heimblick – The White Cane 2.0
+</H2>
 
 Heimblick is an innovative vision app designed to support people with visual impairments or blindness. The project's goal is to make the "world of the sighted" acoustically perceivable through the use of Artificial Intelligence (AI).
 The Vision
