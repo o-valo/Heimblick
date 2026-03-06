@@ -1,5 +1,5 @@
-# webcam-vision
-you make an picture, with and your ollama vision model talk about the picture
+Heimblick
+you make an picture, with  with youe laptop and your ollama vision model talk about the picture
 
 You still need a ollama api connection 
 
