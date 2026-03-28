@@ -69,3 +69,5 @@ MODEL_NAME = "aha2025/llama-joycaption-beta-one-hf-llava:Q4_K_M"
 DE: Sobald die Konfiguration abgeschlossen ist, nimmt die App ein Bild auf, sendet es an den Ollama-Server und das Vision-Modell beschreibt akustisch, was es sieht.
 
 EN: Once configured, the app takes a picture, sends it to the Ollama server, and the Vision model describes what it sees.
+
+Powerd by AI
